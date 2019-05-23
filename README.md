@@ -1,6 +1,8 @@
 # Ext JS Employee Directory
 Ext JS Sample Application - Employee Directory (Coworkee)
 
+A Coworkee app from Mitchell Simoens. Folked from https://github.com/sencha-extjs-examples/Coworkee for seft-studying only. So I'd like to keep all the version history of the owner.
+
 ## Getting started
 ### Prerequisite
 - Install [Node.js](https://nodejs.org/) (^6.9.2)
